@@ -1,2 +1,1 @@
-# Personal Voice Assistant in python
-# Completed last golden project at CodexCue @codexcue.online
+# Personal Voice Assistant in python | 2nd and Last golden project at CodexCue @codexcue.online
